@@ -2,7 +2,7 @@
 
 A visual and educational implementation of **Extended Kalman Filter (EKF) SLAM** in Python, designed to simulate a mobile robot navigating an unknown 2D environment, detecting landmarks using noisy sensors, and incrementally building a map.
 
-![EKF SLAM Preview]()
+![EKF SLAM Preview](https://github.com/EricChen0104/EKF_SLAM_PYTHON/blob/master/assets/Demo%20Video%20to%20GIF.gif)
 
 ## 🌟 Features
 
